@@ -36,5 +36,7 @@ fig = px.bar(sums_df[legend_labels], barmode='stack',
 fig.show()
 fig.write_image('/Users/luigibottecchia/Dev/PhD/graphs_pyplot/data/Overall_Sys_Costs_NoDH.jpg', format='jpeg')
 
+#fig.show()
+
 
 
